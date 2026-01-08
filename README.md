@@ -6,6 +6,16 @@ junto com um conjunto completo de testes automatizados usando MSTest.
 
 ---
 
+## 🚀 Como executar o projeto
+
+1. Clone o repositório
+2. Abra a solução MyClass.sln (ou MyClass.slnx) no Visual Studio.
+3. Compile a solução.
+4. Abra a janela Test Explorer.
+5. Execute todos os testes.
+
+---
+
 ## 📌 Objetivo do Projeto
 
 O propósito principal é mostrar:
