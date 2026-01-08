@@ -39,6 +39,6 @@ FileProcess-UnitTests/
 │   ├── FileProcessTest.cs
 │   ├── app.config
 │   └── FileToDeploy.txt    # Usado com DeploymentItem
-├── FileProcess.sln         # Solução .NET
+├── MyClass.slnx            # Solução .NET
 └── README.md
 ```
