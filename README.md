@@ -1,6 +1,6 @@
 # FileProcess - Validação de arquivos e Testes Unitários (C#)
 
-Este é um pequeno projeto em C# que demonstra a implementação
+Este é um projeto em C# que demonstra a implementação
 de um método para verificar a existência de arquivos no sistema,
 junto com um conjunto completo de testes automatizados usando MSTest.
 
