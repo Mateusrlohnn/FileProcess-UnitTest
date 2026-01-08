@@ -21,12 +21,14 @@ O propósito principal é mostrar:
 
 ## 📁 Estrutura do Projeto
 
+```
 FileProcess-UnitTests/
-├── MyTest/ ← Código de produção
-│ └── FileProcess.cs
-├── MyClassesTest/ ← Projeto de testes
-│ ├── FileProcessTest.cs
-│ ├── app.config
-│ └── FileToDeploy.txt ← Usado com DeploymentItem no teste
-├── FileProcess.sln ← Solução .NET
+├── MyTest/                 # Código de produção
+│   └── FileProcess.cs
+├── MyClassesTest/          # Projeto de testes
+│   ├── FileProcessTest.cs
+│   ├── app.config
+│   └── FileToDeploy.txt    # Usado com DeploymentItem
+├── FileProcess.sln         # Solução .NET
 └── README.md
+```
